@@ -16,3 +16,18 @@ xcuserdata/
 # Dart stuff.
 /tool/.dart_tool/
 /tool/.packages
+
+# tlox (TypeScript/Node.js)
+tlox/node_modules/
+tlox/pnpm-lock.yaml
+tlox/dist/
+tlox/build/
+tlox/*.tsbuildinfo
+tlox/.vscode/
+tlox/*.log
+tlox/npm-debug.log*
+tlox/pnpm-debug.log*
+tlox/coverage/
+tlox/.env
+tlox/.env.local
+tlox/.env.*.local
